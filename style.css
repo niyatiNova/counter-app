@@ -1,0 +1,86 @@
+*body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+#main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    font-size: 2rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+#main p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+#count{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+}
+
+
+#inc-button button{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%; 
+    
+    
+    background-color: green;
+    color: white;
+    border: none;
+}
+#dec-button button{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%; 
+   
+   
+    background-color: red;
+    color: white;
+    border: none;
+}
+
+.resetbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+#reset button{
+  height: 45px;
+    width: 70px;
+    border-radius: 0.75rem;
+    margin-top: 50px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
+
+
+
+.buttons{
+display: flex;
+justify-content: center;
+margin-top: 50px;
+gap: 20px;
+align-items: center;
+flex-wrap: wrap;
+}
+
+
+
+
+

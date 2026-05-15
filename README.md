@@ -17,5 +17,3 @@ A simple and responsive Counter App built using HTML, CSS, and JavaScript.
 ## Project Purpose
 This project was created to practice JavaScript DOM manipulation, event handling, and basic frontend development concepts.
 
-## How to Run
-1. Download or clone the reposito
